@@ -1,5 +1,14 @@
 <html>
 	<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126674202-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-126674202-1');
+	</script>
+
 		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 		<title> 3 pages </title>
 		<link rel="icon" href="heart.png">
@@ -21,7 +30,8 @@
 			let a = lines.split('\n');
 			let d = new Date();
 			const msToDaysConversion = 86400000;
-			let lineToShow = Math.floor(d.getTime()/msToDaysConversion)%(a.length);
+			const offset = 20
+			let lineToShow = Math.floor(d.getTime()/msToDaysConversion)%(a.length) + offset;
 
 			let todayString = "Reason #"+(1+lineToShow)+": "+a[lineToShow];
 

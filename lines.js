@@ -7,7 +7,6 @@ I love when you teach me about bio things I don't understand
 I love how comfortable we are with each other
 I love how we talk for hours on end about nothing at all
 I love watching you sing with your eyes closed like you're a Broadway star
-I love how you wink at me with your mouth open like we have our own little secrets ;D
 I love the way we cuddle when we watch movies together
 I love the fact that you're one of the most caring people I've ever met
 I love how when you're reminded of a song you just burst out singing
@@ -15,6 +14,7 @@ I love how we love the same musicals and can jam out together
 I love lying together in a grassy field or on a beach and enjoying each others' company
 I love how your kisses make my heart beat out of my chest
 I love cuddling to share our heat when we're cold
+I love how you wink at me with your mouth open like we have our own little secrets ;D
 I love how you made the leap that started us
 I love being each others' best friends forever and ever
 I love that your hugs are warm embraces that give me butterflies every time
@@ -27,4 +27,6 @@ I love when you share your favourite music with me
 I love calling you when we're working to keep each other company
 I love George the orangutan ;)
 I love how, even though we're both always busy, we manage to make us work
+I love holding onto your leg while you're driving
+I love seeing that little white light on my phone every time you message
 `
