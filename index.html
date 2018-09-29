@@ -1,0 +1,46 @@
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+		<title> 3 pages </title>
+		<link rel="icon" href="heart.png">
+		<style>
+			body {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+			#text{
+				text-align: center;
+				font-size: 80px;
+				color: #464646;
+				font-family: Montserrat;
+			}
+		</style>
+		<script src="lines.js"></script>
+		<script type="text/javascript">
+			let a = lines.split('\n');
+			let d = new Date();
+			const msToDaysConversion = 86400000;
+			let lineToShow = Math.floor(d.getTime()/msToDaysConversion)%(a.length);
+
+			let todayString = "Reason #"+(1+lineToShow)+": "+a[lineToShow];
+
+			function getRandomColor() {
+				let letters = '789ABCDE';
+				let color = '#';
+				for (let i = 0; i < 6; i++) {
+				  color += letters[Math.floor(Math.random() * 8)];
+				}
+				return color;
+			}
+
+			function populateBody() {
+				document.getElementById("body").style.backgroundColor=getRandomColor();
+				document.getElementById("text").innerText=todayString;
+			}
+		</script>
+	</head>
+	<body id="body" onload="populateBody()">
+		<div id="text"></div>
+	</body>
+</html>
