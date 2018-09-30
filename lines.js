@@ -28,5 +28,4 @@ I love calling you when we're working to keep each other company
 I love George the orangutan ;)
 I love how, even though we're both always busy, we manage to make us work
 I love holding onto your leg while you're driving
-I love seeing that little white light on my phone every time you message
-`
+I love seeing that little white light on my phone every time you message`
