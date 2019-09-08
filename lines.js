@@ -28,4 +28,26 @@ I love calling you when we're working to keep each other company
 I love George the orangutan ;)
 I love how, even though we're both always busy, we manage to make us work
 I love holding onto your leg while you're driving
-I love seeing that little white light on my phone every time you message`
+I love seeing that little white light on my phone every time you message
+I love going on trips and exploring the world with you
+I love ONLY MONIKA
+I love how you're the first thing I see in the morning...
+...and the last thing I see at night
+I love going home with you after a long day out
+I love drying the dishes with you (even though I'd never do it myself)
+I love eating all the yummiest foods with you - LETS GO CHEUNG FUN
+I love making plans for our future together
+I love derping around with you all day long 
+I love (sil)billy billy bo billy banana fanna fo filly
+I love how you dress yourself (and me) up when we go out together
+I love how you hug me after not seeing each other for a long time
+I love doing cuteass coupley stuff that makes everyone else cringe a little
+I love being in the backseat of your rover ;)
+I love how you grab onto my arm when we walk together
+I love making, eating, and enjoying your pasta
+I love it when we meme each other
+I love calling you to catch up after a whole day apart
+I love when you flex on me during in house karaoke
+I love when you call me (y)A JAG
+I love watching Money Heist with you (gotta watch S4 together - no falling asleep!)
+`
