@@ -30,7 +30,7 @@
 			let a = lines.split('\n');
 			let d = new Date();
 			const msToDaysConversion = 86400000;
-			const offset = 15;
+			const offset = 31;
 			let lineToShow = Math.floor((d.getTime()/msToDaysConversion) + offset)%(a.length);
 
 			let todayString = "Reason #"+(1+lineToShow)+": "+a[lineToShow];
