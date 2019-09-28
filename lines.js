@@ -50,4 +50,17 @@ I love calling you to catch up after a whole day apart
 I love when you flex on me during in house karaoke
 I love when you call me (y)A JAG
 I love watching Money Heist with you (gotta watch S4 together - no falling asleep!)
+I love you when you *borrow* my hoodies and wear them to keep you warm
+I love beating you at mini golf (even though you smashed me at bowling)
+I love how we call to keep each other safe when we're walking home alone
+I love our Yoshis (now we have two!) and your Yoshi impression
+I love getting to know your family better and being comfortable with them
+I love making secret plans to surprise you ;)
+I love you for putting up with all my memes (wanna see my 10x dab?)
+I love how when we're together, things aren't so difficult difficult lemon difficult
+I love knowing we're gonna be together forever
+I love you for all the effort and thoughtfulness you put into your gifts
+I love how we naturally move closer to lean on each other whenever we can
+I love us, and only us.
+I LOVE THAT WE'RE GOING TO NEW YORK TODAY HYPE HYPE HYPE LETS GET ITTTTTTTTTTTTTTTTTTTTT
 `
