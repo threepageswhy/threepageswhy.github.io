@@ -63,4 +63,33 @@ I love you for all the effort and thoughtfulness you put into your gifts
 I love how we naturally move closer to lean on each other whenever we can
 I love us, and only us.
 I LOVE THAT WE'RE GOING TO NEW YORK TODAY HYPE HYPE HYPE LETS GET ITTTTTTTTTTTTTTTTTTTTT
-`
+Remember when we chilled around Toronto?
+Remember when we invented the circle heart? (you're totally doing it wrong)
+Remember when we became a 'thing' on Canada day?
+Remember when you drew a really cute strawberry?
+Remember when we went gokarting as a first date?
+Remember when I beat you in mini golf? ;)
+What if we kissed at Eglinton park? haah..jk......unless?
+Remember when we hung out at the ROM all day?
+Remember when we went to Wonderland and did all the roller coasters?
+Remember when we switched glasses just for fun?
+Remember when I loved your guitar more than you and you were jealous?
+Remember when we spent the day at Markville and got ice cream?
+Remember when we wandered around the Christmas Market?
+Remember when we all surprised Elvan for her birthday?
+Remember when we did a photoshoot with my bald ass head?
+Remember when we got (slightly) lost on Mont Royal?
+Remember when you were almost eaten alive???!?!
+Remember when we hung out at the CNE?
+Remember when we went to Niagara allllll by ourselves and had a FUN pass?
+Remember when we went go karting (again)?
+Remember when we (you, really) painted the beautiful totes for us?
+Remember when we spent the day at the beach together?
+Remember when you pretended to be a UWaterloo student (and helped me move all my stuff)?
+Remember when WE WENT TO NYC???
+Remember when you got dragged around the city the whole day?
+Remember when we went to the Top of the Rock?
+Remember when we watched Halexander Jamilwin?
+Remember when we watched your favourite singer Sara Bareilles????
+Remember when we went to Cirque du Soleil under the Big Top?
+AAAAAAANd last but not least remember when I didn't know how to open my eyes?`;

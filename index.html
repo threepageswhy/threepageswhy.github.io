@@ -18,39 +18,66 @@
 				justify-content: center;
 				align-items: center;
 			}
-			#text{
+			#text {
 				text-align: center;
 				font-size: 80px;
 				color: #464646;
 				font-family: Montserrat;
 			}
+      #pic {
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 35vh;
+        display: none;
+      }
+      #content {
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
 		</style>
 		<script src="lines.js"></script>
-		<script type="text/javascript">
-			let a = lines.split('\n');
-			let d = new Date();
-			const msToDaysConversion = 86400000;
-			const offset = 18;
-			let lineToShow = Math.floor((d.getTime()/msToDaysConversion) + offset)%(a.length);
-
-			let todayString = "Reason #"+(1+lineToShow)+": "+a[lineToShow];
-
-			function getRandomColor() {
-				let letters = '789ABCDE';
-				let color = '#';
-				for (let i = 0; i < 6; i++) {
-				  color += letters[Math.floor(Math.random() * 8)];
-				}
-				return color;
-			}
-
-			function populateBody() {
-				document.getElementById("body").style.backgroundColor=getRandomColor();
-				document.getElementById("text").innerText=todayString;
-			}
-		</script>
+    <script src="pics.js"></script>
 	</head>
 	<body id="body" onload="populateBody()">
-		<div id="text"></div>
+    <div id="content">
+  		<div id="text"></div>
+      <img id="pic" src="">
+    </div>
 	</body>
+  <script type="text/javascript">
+    let a = lines.split('\n');
+    let d = new Date();
+    const msToDaysConversion = 86400000;
+    const offset = 67;
+    const NUM_LINES_BEFORE_PICS = 64;
+    let lineToShow = Math.floor((d.getTime()/msToDaysConversion) + offset)%(a.length);
+
+    let todayString = "Reason #"+(1+lineToShow)+": "+a[lineToShow];
+
+    if (lineToShow >= NUM_LINES_BEFORE_PICS) {
+      let b = pics.split('\n');
+      let todayPic = "memories/"+b[lineToShow - NUM_LINES_BEFORE_PICS];
+      document.getElementById("pic").setAttribute("src", todayPic);
+      document.getElementById("pic").style.display = "block";
+    } 
+    
+
+    function getRandomColor() {
+      let letters = '789ABCDE';
+      let color = '#';
+      for (let i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 8)];
+      }
+      return color;
+    }
+
+    function populateBody() {
+      document.getElementById("body").style.backgroundColor=getRandomColor();
+      document.getElementById("text").innerText=todayString;
+    }
+  </script>
 </html>
