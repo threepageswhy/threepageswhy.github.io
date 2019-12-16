@@ -1,6 +1,6 @@
 let pics = 
 `toronto.jpg
-b.png
+bbb.png
 canadaday.jpg
 movie.jpg
 gokart.jpg
